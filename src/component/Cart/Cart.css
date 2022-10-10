@@ -1,0 +1,18 @@
+.cart-details{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid gray;
+   border-radius: 10px;
+   box-shadow: 2px 2px 4px;
+   margin: 10px;
+}
+.button{
+    border: none;
+    background-color: white;
+ }
+/* ..btn{
+    border: none;
+     background-color: rgb(161, 161, 251);
+     margin: 0;
+     padding-top: 0;
+} */

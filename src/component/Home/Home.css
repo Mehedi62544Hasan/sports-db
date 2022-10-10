@@ -1,0 +1,51 @@
+                     /* LEFT SAID */
+
+.home-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+ }
+ .writ-div{
+    margin: 10px;
+ }
+ .writ-div input{
+    width: 50%;
+    padding: 10px;
+ }
+ .writ-div button{
+    padding: 12px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 8px;
+    font-weight: 600;
+ }
+
+
+                           /* PLAYERS */
+
+.player-container{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 35px;
+   margin: 50px;
+}
+
+                             /* CART */
+
+.cart-container{
+   border: 1px solid gray;
+   border-radius: 10px;
+   box-shadow: 2px 2px 4px;
+   margin: 20px;
+}
+
+
+                            /* RIGHT SAID */
+                            
+.card-fild{
+    padding: 10px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 8px gray;
+    margin: 10px;
+}
